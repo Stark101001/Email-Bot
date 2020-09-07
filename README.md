@@ -1,5 +1,5 @@
 # Email-Bot
-Welcome To My Repositery
+Welcome To My Repository 
 
 First You Import Library 
 
